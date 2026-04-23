@@ -1,7 +1,8 @@
 # 👋 Hey there, I’m Mahalakshmi V
 
 <p align="center">
- <img src="https://cdna.artstation.com/p/assets/images/images/063/614/960/original/amina-taziatova-1.gif" width="400" />
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9keXRzbDd6NDRmNGI1dHhyZm93djQxcDJzMWNqbmM4d2Q1cjhlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif" width="400" />
+
 </p>
 
 <p align="center">
