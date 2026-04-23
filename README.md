@@ -30,17 +30,7 @@ My approach is simple: **Hack → Learn → Secure**.
 * 🔍 Explore vulnerabilities & security flaws  
 * 🛡️ Practice ethical hacking  
 * 🤝 Manage Dragon Byte community  
-* 🌱 Learn and grow in cybersecurity  
-
----
-
-## 🌐 Portfolio
-
-🔗 *(Add link here)*
-
----
-
-## 🧰 Tech Stack
+* 🌱 Learn and grow in cybersecurity
 
 ### 💻 Programming
 Python · C  
